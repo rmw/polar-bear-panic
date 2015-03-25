@@ -10,3 +10,5 @@ Polar Bear Panic!
 
 Polar Bear Panic is a 2Dside-scroller where you play as a polar bear escaping the devastating effects of global warming.
 Dodge flying fish, avoid treacherous icebergs, and stay out of the freezing arctic water!
+
+Play [Polar Bear Panic](http://polarbearpanic.herokuapp.com/) now!
